@@ -1,0 +1,47 @@
+﻿  sample.cpp
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sphere.cpp(60,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sphere.cpp(61,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sphere.cpp(62,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sphere.cpp(65,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sphere.cpp(66,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sphere.cpp(67,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sphere.cpp(76,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sphere.cpp(77,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\loadobjfile.cpp(128,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\loadobjfile.cpp(131,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\loadobjfile.cpp(134,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\loadobjfile.cpp(152,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\loadobjfile.cpp(155,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\loadobjfile.cpp(158,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\loadobjfile.cpp(171,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\loadobjfile.cpp(175,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\loadobjfile.cpp(179,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\loadobjfile.cpp(364,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\loadobjfile.cpp(384,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(227,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(453,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(519,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(544,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(633,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(635,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(636,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(638,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(640,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(643,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(646,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(648,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(1063,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(1068,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(1069,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(1070,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(1075,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(1106,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(1111,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(1111,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(1793,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(1850,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(1855,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(1866,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\sample.cpp(1867,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\sithu\OneDrive\Desktop\CS550\Final Project\New folder\Particle\.\Debug\Sample.exe
